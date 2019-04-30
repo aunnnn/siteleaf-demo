@@ -8,3 +8,4 @@ This is my first page.
 # Hello
 
 {{site.time}}
+{{site.posts}}
